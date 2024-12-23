@@ -1,4 +1,3 @@
-```markdown
 # Rock Paper Scissors
 
 A fun and interactive **Rock, Paper, Scissors** game implemented in Python! Play against the computer and see who wins.
@@ -25,5 +24,4 @@ In this small Python project, I have made use of a module in Python 'Random' for
 
 ## Installation
 1. Clone this repository:
-   ```bash
-   git clone <repository_url>
+   git clone <https://github.com/shreyasvp26/Rock-Paper-Scissor-Game---Python>
