@@ -24,4 +24,4 @@ In this small Python project, I have made use of a module in Python 'Random' for
 
 ## Installation
 1. Clone this repository:
-   git clone <https://github.com/shreyasvp26/Rock-Paper-Scissor-Game---Python>
+   git clone <https://github.com/shreyasvp26/Rock-Paper-Scissor-Game>
